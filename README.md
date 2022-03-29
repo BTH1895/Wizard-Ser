@@ -1,11 +1,11 @@
 # Wizard-Ser
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/g_splash_logo.png" width="200" height="200"/>
 
 <p align="center">
-  <a href="https://instagram.com/ajmal_ibn_shanavas"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918590967139"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://instagram.com/_.shibi_li_?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/918891903813"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
 ## <!-- Typing SVG -->
@@ -19,14 +19,14 @@
 </p>
 
 ## ```HOW TO DEPLOY```
-`WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
+`SUBSCRIBE YT CHANNEL CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtu.be/5shzvYdTasw)
+[`Click Here For Tutorial`](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <a href="https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ"><img src="https://www.linkpicture.com/q/WhatsApp-Image-2022-03-29-at-9.42.06-PM.jpeg" />
 </p>
 
 -------
@@ -69,7 +69,7 @@ https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IpM871JDwkSLLjenjV1YD4)
+  [![join](https://www.linkpicture.com/q/WhatsApp-Image-2022-03-29-at-9.42.06-PM.jpeg)](https://chat.whatsapp.com/G5vnBcMOOJeBcWoSN3GEMu)
   <div align="center">
 
 
