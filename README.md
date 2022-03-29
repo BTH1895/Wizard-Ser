@@ -1,4 +1,4 @@
-# Wizard-Ser
+# BTH-SER
 
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/g_splash_logo.png" width="200" height="200"/>
