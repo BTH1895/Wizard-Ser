@@ -21,7 +21,7 @@
 ## ```HOW TO DEPLOY```
 `SUBSCRIBE YT CHANNEL CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
-[`Click Here For Tutorial`](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)
+[`SUBSCRIBE BTH MODS`](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)
 
 ----------
 
